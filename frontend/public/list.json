@@ -1,0 +1,66 @@
+[
+    {
+        "id" : 1,
+        "name" : "Harry Potter and the Sorcerer's Stone",
+        "title" : "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?w=740&t=st=1716495542~exp=1716496142~hmac=8b69f1734f6e41b162fb0be70bb72b63cfcb79009faa751ebf3d09b34e474b46"
+    },
+    {
+        "id" : 2,
+        "name" : "Harry Potter and the Chamber of Secrets",
+        "title" : "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "price" : 20,
+        "category" : "Entertainment",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?w=740&t=st=1716495542~exp=1716496142~hmac=8b69f1734f6e41b162fb0be70bb72b63cfcb79009faa751ebf3d09b34e474b46"
+    },
+    {
+        "id" : 3,
+        "name" : "Story Book",
+        "title" : "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "price" : 50,
+        "category" : "Sports",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?w=740&t=st=1716495542~exp=1716496142~hmac=8b69f1734f6e41b162fb0be70bb72b63cfcb79009faa751ebf3d09b34e474b46"
+    },
+    {
+        "id" : 4,
+        "name" : "Story Book",
+        "title" : "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "price" : 100,
+        "category" : "Music",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?w=740&t=st=1716495542~exp=1716496142~hmac=8b69f1734f6e41b162fb0be70bb72b63cfcb79009faa751ebf3d09b34e474b46"
+    },
+    {
+        "id" : 5,
+        "name" : "Harry Potter and the Prisoner of Azkaban",
+        "title" : "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?w=740&t=st=1716495542~exp=1716496142~hmac=8b69f1734f6e41b162fb0be70bb72b63cfcb79009faa751ebf3d09b34e474b46"
+    },
+    {
+        "id" : 6,
+        "name" : "Harry Potter and the Goblet of Fire",
+        "title" : "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?w=740&t=st=1716495542~exp=1716496142~hmac=8b69f1734f6e41b162fb0be70bb72b63cfcb79009faa751ebf3d09b34e474b46"
+    },
+    {
+        "id" : 7,
+        "name" : "Harry Potter and the Order of the Phoenix",
+        "title" : "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?w=740&t=st=1716495542~exp=1716496142~hmac=8b69f1734f6e41b162fb0be70bb72b63cfcb79009faa751ebf3d09b34e474b46"
+    },
+    {
+        "id" : 8,
+        "name" : "Harry Potter and the Half-Blood Prince",
+        "title" : "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?w=740&t=st=1716495542~exp=1716496142~hmac=8b69f1734f6e41b162fb0be70bb72b63cfcb79009faa751ebf3d09b34e474b46"
+    }
+]
