@@ -51,7 +51,7 @@ function Navbar() {
         <a href="/contactus">Contact</a>
       </li>
       <li>
-        <a>About</a>
+        <a href="/about">About</a>
       </li>
     </>
   );

@@ -50,3 +50,28 @@ export const login = async (req , res) => {
         res.status(500).json({message : "internal server error"});
     }
 };
+
+
+export const changePassword = async (req , res) => {
+    try {
+        const {email , oldPassword , newPassword} = req.body;
+        const user = await User.findOne({email});
+
+        const isMatch = await bcryptjs.compare(oldPassword , user.password);
+
+        if(!user || !isMatch){
+            return res.status(400).json({message : "invalid email or password"});
+        }else{
+            const hash = await bcryptjs.hash(newPassword , 10)
+            await User.updateOne({email : email} , {password : hash })
+            return res.status(200).json({message : "password changed successfull" , user : {
+                fullName : user.fullName,
+                _id : user._id,
+                email : user.email
+            }});
+        }
+    } catch (error) {
+        console.log("error" , error);
+        res.status(500).json({message : "internal server error"});
+    }
+}
